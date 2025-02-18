@@ -13,16 +13,25 @@ This project allows you to choose whether you can eat ice cream or not. Based on
 - **Light Pink Theme**: The page features a soft, girly pink theme, perfect for a cute and fun experience.
 - **Ice Cream Fun**: The game is themed around the question of eating ice cream, with corresponding playful images and messages.
 
-## Getting Started
+### Viewing the Game
 
-To run this project on your local machine, follow the steps below:
+1. **Visit the Repository**  
+   You can directly view and interact with the Lin-Tang project through the GitHub Pages link:
+   - **Link:** [https://jessicaaivana.github.io/Lin-Tang/](https://jessicaaivana.github.io/Lin-Tang/)
+
+2. **Play the Game**  
+   Once the page loads, you'll see a fun, light pink background with a question: **"我可以吃冰淇淋吗?"** (Can I eat ice cream?).
+   - Choose **可以** (Yes) or **不可以** (No).
+   - The buttons will resize with each click, making the experience playful and interactive.
+   - After you click, cute images will appear based on your selection!
 
 ### Prerequisites
 
-You will need a basic web browser to view this project. No special software is required.
+To run this project, you'll need:
+- A basic web browser (e.g., Chrome, Firefox, Safari).
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ice-cream-question-game.git
+   git clone https://github.com/jessicaaivana/Lin-Tang.git
