@@ -34,4 +34,4 @@ To run this project, you'll need:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jessicaaivana/Lin-Tang.git
+   git clone https://github.com/jessicaaivana/Ice-Cream.git
