@@ -17,7 +17,7 @@ This project allows you to choose whether you can eat ice cream or not. Based on
 
 1. **Visit the Repository**  
    You can directly view and interact with the Lin-Tang project through the GitHub Pages link:
-   - **Link:** [https://jessicaaivana.github.io/Lin-Tang/](https://jessicaaivana.github.io/Lin-Tang/)
+   - **Link:** [https://jessicaaivana.github.io/Lin-Tang/](https://jessicaaivana.github.io/Ice-Cream/)
 
 2. **Play the Game**  
    Once the page loads, you'll see a fun, light pink background with a question: **"我可以吃冰淇淋吗?"** (Can I eat ice cream?).
